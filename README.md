@@ -8,7 +8,10 @@ This project analyzes traffic accident data to identify patterns related to:
 
 - Time of day
   <img width="1400" height="700" alt="Accidents by Hour of Day (1)" src="https://github.com/user-attachments/assets/935c33a4-85ff-48de-98a8-f6a3b15634cb" />
-  
+
+- Lighting condition
+  <img width="800" height="800" alt="Accidents by Lighting Condition" src="https://github.com/user-attachments/assets/8c6d8a0c-c560-4481-b1fa-c93064eef45f" />
+
 ## Features
 - Data cleaning and preprocessing
 - Exploratory Data Analysis (EDA)
@@ -17,7 +20,7 @@ This project analyzes traffic accident data to identify patterns related to:
 - Identification of key contributing factors
 
 ## Requirements
-Import Libraries
+Import Libraries :
 - pandas
 - numpy
 - matplotlib

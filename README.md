@@ -8,7 +8,7 @@ This project analyzes traffic accident data to identify patterns related to:
 
 - Time of day
   <img width="1400" height="700" alt="Accidents by Hour of Day (1)" src="https://github.com/user-attachments/assets/935c33a4-85ff-48de-98a8-f6a3b15634cb" />
-
+  
 - Lighting Condition
   <img width="800" height="800" alt="Accidents by Lighting Condition" src="https://github.com/user-attachments/assets/80b69b11-754d-47b9-9040-ecb963a8f99f" />
 
